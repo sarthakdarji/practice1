@@ -7,3 +7,5 @@ else:
 y=int(input("Enter y:"))
 z=x+y
 print("Addition of 2 numbers is:",z)
+w=x-y
+print("Subtraction of 2 numbers is:",w)
