@@ -4,3 +4,6 @@ if x%2==0:
 else:
     print("Number is odd")
     print("Not divisible by 2")
+y=int(input("Enter y:"))
+z=x+y
+print("Addition of 2 numbers is:",z)
